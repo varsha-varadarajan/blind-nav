@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlindNav</string>
+    <string name="action_settings">Navigate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_database_handler">DatabaseHandler</string>
+    <string name="Dest">Speak your destination</string>
+    <string name="TextView">TextView</string>
+    <string name="speak">speak</string>
+    <string name="destination">select destination</string>
+    <string name="title_activity_path">Path</string>
+    <string name="TODO">Map of the first floor of FCRIT</string>
+
+    <string-array name="room_names">
+        <item>Select destination from drop down menu by double tapping</item>
+        <item>ROOM 101</item>
+        <item>ROOM 102</item>
+        <item>ROOM 103</item>
+        <item>ROOM 104</item>
+        <item>ROOM 105</item>
+        <item>ROOM 106</item>
+        <item>STAFFROOM</item>
+        <item>HOD CABIN</item>
+        <item>EXAM CELL</item>
+        <item>LAB 1</item>
+        <item>LAB 2</item>
+        <item>IT LAB</item>
+        <item>LIBRARY</item>
+        <item>MENS WASHROOM</item>
+        <item>LADIES WASHROOM 1</item>
+        <item>LADIES WASHROOM 2</item>
+    </string-array>
+
+    <string name="title_activity_scan_result_receiver">ScanResultReceiver</string>
+    <string name="title_activity_wifi_trilateration">WifiTrilateration</string>
+    <string name="Button">Button</string>
+
+</resources>
